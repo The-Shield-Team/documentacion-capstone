@@ -1,0 +1,1 @@
+Documentación técnica en Confluence: https://shield9.atlassian.net/wiki/spaces/SD/pages
